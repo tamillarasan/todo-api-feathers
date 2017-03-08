@@ -1,0 +1,13 @@
+{
+  "host": "localhost",
+  "port": 8080,
+  "mysql": "mysql://root:@localhost:3306/ToDo",
+  "public": "../public/",
+  "auth": {
+    "idField": "id",
+    "token": {
+      "secret": "Mdg7hbtMOzF4aZb9ykkVF0r8wapf2yu6QAYiT5TZkrBe/Nwr984FFYnCOwlILmphc6F4vtZR8vUQON39reiCfg=="
+    },
+    "local": {}
+  }
+}
